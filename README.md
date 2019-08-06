@@ -18,4 +18,4 @@ Clone the app with ```git clone https://github.com/suretrust/restaurant-page.git
  Open ```index.html``` (which is in the ```dist``` folder) with your preferred browser and you're good to go.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/suretrust/restaurant-homepage/blob/development/LICENSE)
