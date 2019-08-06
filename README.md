@@ -1,5 +1,5 @@
 # Mini-Restaurant Homepage
-Live version: 
+Live version: https://suretrust.github.io/restaurant-homepage/
 
 ## Introduction
 A simple restaurant homepage built with JS DOM manipulations.
