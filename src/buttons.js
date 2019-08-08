@@ -20,4 +20,4 @@ const buttons = (() => {
     return { div, menuBtn }
 })();
 
-export { buttons as default };
+export default buttons;

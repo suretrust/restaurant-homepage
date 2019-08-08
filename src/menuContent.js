@@ -35,4 +35,4 @@ const menu = (() => {
     return { content };
 })();
 
-export { menu as default };
+export default menu;

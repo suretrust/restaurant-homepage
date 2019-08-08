@@ -15,4 +15,4 @@ const pageLoad = (() => {
     return { getContent };
 })();
 
-export { pageLoad as default };
+export default pageLoad;

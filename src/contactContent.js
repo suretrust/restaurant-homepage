@@ -12,4 +12,4 @@ const contact = (() => {
     return { content };
 })();
 
-export { contact as default };
+export default contact;

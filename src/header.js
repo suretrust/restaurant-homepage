@@ -13,4 +13,4 @@ const header = (() => {
     return { div }
 })();
 
-export { header as default };
+export default header;
